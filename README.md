@@ -2,7 +2,7 @@
 
 ##### Meu nome é Gabriel Oliveira, sou carioca e apaixonado por música, praia e café. Desde 2022, venho trilhando meu caminho como desenvolvedor, quando tive meu primeiro contato com essa empolgante área.
 
-##### Neste momento, estou imerso nos estudos de desenvolvimento de software com foco em backend na [@cubosacademy](https://cubos.academy/), buscando aprimorar minhas habilidades. Cada linha de código que escrevo é uma oportunidade para evoluir e aperfeiçoar minha trajetória.
+##### Neste momento, estou imerso nos estudos de desenvolvimento de software com foco em backend na CubosAcademy, buscando aprimorar minhas habilidades. Cada linha de código que escrevo é uma oportunidade para evoluir e aperfeiçoar minha trajetória.
 
 
 ### 💻 Para me encontrar:
